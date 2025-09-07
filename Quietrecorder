@@ -1,0 +1,13 @@
+QuietRecorder/
+ ├── app/
+ │   ├── src/
+ │   │   ├── main/
+ │   │   │   ├── AndroidManifest.xml
+ │   │   │   ├── java/com/example/quietrecorder/MainActivity.java
+ │   │   │   ├── java/com/example/quietrecorder/sensors/ShakeDetector.java
+ │   │   │   ├── java/com/example/quietrecorder/recording/RecordingService.java
+ │   │   │   └── res/layout/activity_main.xml
+ │   ├── build.gradle
+ │   └── proguard-rules.pro
+ ├── build.gradle
+ └── README.md
